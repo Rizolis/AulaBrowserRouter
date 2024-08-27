@@ -74,7 +74,6 @@ dynamicHeight
 </div>
 </Carousel>
 <ListarProdutos ListarProdutos={produtos} />
-<footer></footer>
 </>
 );
 }
